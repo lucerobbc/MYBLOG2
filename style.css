@@ -1,0 +1,68 @@
+.navbar-inverse {
+    font-size: 29px;
+   ;
+
+
+}
+
+.travel_mainDiv {
+    border: 2px solid lightgrey ;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.travel_mainDiv h4,
+.travel_mainDiv p {
+    margin: 20px;
+}
+
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: darkorange;
+}
+
+
+.book {
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.book hr {
+
+margin-bottom: 50px;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+p {
+    font-size: 18px;
+}
+
+h2 {
+    text-align: center;
+}
+
+a {
+    font-size: 22px;
+}
+
+a links hover {
+    font-size: 25px;
+}
+
+b
